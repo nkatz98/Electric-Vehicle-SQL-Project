@@ -25,4 +25,4 @@ This repository contains everything needed to recreate the database, run the que
     * Open "electric_vehicles_queries.sql" in Workbench
     * Run scripts
 3. (Optional) If you want to see an ERD of the project to better understand its logical design, download and open "electric_vehicle_logical.mwb" located in database folder.
-4. (Optional) If you want to explore the raw data set used for the database we created, download, extract files, and open "electric_vehicle_population.zip" located in raw_data folder.
+4. (Optional) If you want to explore the raw data set used for the database we created, download "ev_dataset.zip" located in raw_data folder, extract files, and open "Electric Vehicle Population.csv".
